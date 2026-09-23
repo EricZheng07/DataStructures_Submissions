@@ -81,7 +81,9 @@ public class HwParts {
         
         //Part 1
             /*
-            
+            Name: Eric Zheng
+            Programing language: Java
+            IDE: Visual Studio Code
             */
 
         //Part 2
