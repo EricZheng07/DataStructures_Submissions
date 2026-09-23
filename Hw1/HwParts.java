@@ -79,6 +79,11 @@ public class HwParts {
 
     public static void main(String[] args) {
         
+        //Part 1
+            /*
+            
+            */
+
         //Part 2
             //Define Arrays
             int[] arr = {43,2,88,12,32,56,90,76,6,10,24,1};
