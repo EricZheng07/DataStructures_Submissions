@@ -20,6 +20,10 @@ public class MusicPlayer{
     }
     //----------------------------------------------------------------
     //Instance Variables
+    /*
+    ***IMPORTANT***
+    I resued java's Map and Hashmap libraries and built the utilized doubly linked list, stack, and Music object. 
+    */
     private Map<Integer, Music> library = new HashMap<>();
     private DoublelyLinkedList<Music> playlist = new DoublelyLinkedList<>();
     private DoublelyLinkedList<Music> upNext = new DoublelyLinkedList<>();

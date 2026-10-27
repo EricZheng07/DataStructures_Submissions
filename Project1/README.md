@@ -1,6 +1,11 @@
 Main code in MusicPlayer.java file
 
 Test file in Driver.java
-Queue unused; rest are either data structures or supporting classes.
+
+The Queue class is unused; rest are either data structures or supporting classes.
 Write-up in attached document
+
+Extra credit componets include: 
+1) Build "everything" (mostly) 
+2) Shuffle function 
 
